@@ -1,0 +1,32 @@
+body{
+    background: #e7e7e7 url("images/background.gif");
+    background-size: cover;
+}
+
+#corpo{
+    text-align: center;
+}
+
+#avatar{
+    border-radius: 50%;
+    height: 300px;
+}
+
+#conteudo{
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.5;
+    border-radius: 5%;
+    text-align: center;
+    background-color: #d3d3d3;
+    width: 500px;
+    height: 300px;
+    margin-left: 450px;
+    
+}
+
+.bloco{
+    margin-left: 50px;
+    -webkit-box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
+    -moz-box-shadow:    9px 7px 5px rgba(50, 50, 50, 0.77);
+    box-shadow:         9px 7px 5px rgba(50, 50, 50, 0.77);
+}
